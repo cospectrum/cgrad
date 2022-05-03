@@ -1,0 +1,10 @@
+*.o
+*.gch
+*.out
+*main.c
+
+*.exe
+
+*.so
+*.a
+
